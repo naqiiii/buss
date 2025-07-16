@@ -28,3 +28,4 @@ Error handling can be improved
 
 Syed Hassan Raza
 BS Computer Science – PIEAS University
+[LinkedIn](https://www.linkedin.com/in/syed-hassan-raza-ba842b277)
