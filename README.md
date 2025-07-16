@@ -19,16 +19,6 @@ A simple C-based console application for booking bus tickets from **Makkah to Ma
 
 ---
 
-## 🔧 How to Compile & Run
-
-### 💻 On Linux / macOS:
-```bash
-gcc saptco_booking.c -o saptco
-./saptco
-
-saptco_booking.c   --> Main source file <br>
-README.md          --> Project documentation <br>
-
 Limitations
 CLI-based, no graphical interface
 
